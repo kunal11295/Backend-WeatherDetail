@@ -10,6 +10,6 @@ router.post('/registration-check',registrationcheck,registration)
 router.post('/Temp',checkuser,Temp);
 router.post('/astro',getAstro);
 router.post('/getwindspeed',getwindspeed)
-
+ 
 
 export default router;
